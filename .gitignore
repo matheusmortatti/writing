@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace/UI state (per-machine, noisy)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian plugin runtime data
+.obsidian/plugins/*/data.json
+
+# Obsidian core caches / trash
+.trash/
+.obsidian-git-data/
+
+# Common plugin junk
+.obsidian/plugins/*/node_modules/
+
+# Keep tracked (do NOT ignore):
+#   .obsidian/app.json, appearance.json, core-plugins.json,
+#   community-plugins.json, graph.json, hotkeys.json
+#   .obsidian/plugins/*/main.js, manifest.json, styles.css
+#   .obsidian/themes/, .obsidian/snippets/
