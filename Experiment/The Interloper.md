@@ -1,0 +1,3 @@
+This is a story about a lone comet traveling around a solar system always observing the planets around them, the beings inside and the relationships between them. The Interloper is lonely, people seem them but can never come close. All the comet wants is to be a part of something, to be heard by those who acknowledge it and even by those that can't. With its full force of will it'll try to make it happen, only to crash and destroy the planet it longs for the most.
+
+There's The Sun, bright and warm and still. The one that can most closely understand what the comet feels, though it's worshiped for the life that it brings. The Sun has a purpose, The Interloper hasn't found theirs yet.
