@@ -1,4 +1,5 @@
 {
-  "cssTheme": "iA Writer",
-  "theme": "obsidian"
+  "cssTheme": "Typewriter",
+  "theme": "system",
+  "showRibbon": false
 }
