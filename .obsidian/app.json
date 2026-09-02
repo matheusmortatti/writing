@@ -1,3 +1,6 @@
 {
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }
